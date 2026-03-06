@@ -1,4 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/swapnika-dhulipudi-88937288)
+<img width="500" height="506" alt="image" src="https://github.com/user-attachments/assets/0af33375-af7c-4de3-bc5c-0dc1ff4cb676" />
 
 # Swapnika Dhulipudi
 
