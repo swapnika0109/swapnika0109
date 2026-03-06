@@ -1,5 +1,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/swapnika-dhulipudi-88937288)
-<img width="500" height="506" alt="image" src="https://github.com/user-attachments/assets/0af33375-af7c-4de3-bc5c-0dc1ff4cb676" />
 
 # Swapnika Dhulipudi
 
@@ -72,3 +71,6 @@ Currently building **Rio Kutty** — an AI-powered personalised story platform f
 ---
 
 *[swapnika0109@gmail.com] · [https://www.linkedin.com/in/swapnika-dhulipudi-88937288].
+Please find the CV below :
+<img width="200" height="206" alt="image" src="https://github.com/user-attachments/assets/8b483bc9-fc11-46a1-b87d-2fa587e15f05" />
+
