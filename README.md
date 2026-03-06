@@ -70,4 +70,4 @@ Currently building **Rio Kutty** — an AI-powered personalised story platform f
 
 ---
 
-*[your.email@example.com] · [linkedin.com/in/your-id] · [portfolio-site if any]*
+*[swapnika0109@gmail.com] · [https://www.linkedin.com/in/swapnika-dhulipudi-88937288].
