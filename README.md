@@ -71,6 +71,6 @@ Currently building **Rio Kutty** — an AI-powered personalised story platform f
 ---
 
 *[swapnika0109@gmail.com] · [https://www.linkedin.com/in/swapnika-dhulipudi-88937288].
-Please find the CV below :
+- Please find the CV below :
 <img width="200" height="206" alt="image" src="https://github.com/user-attachments/assets/8b483bc9-fc11-46a1-b87d-2fa587e15f05" />
 
